@@ -1,0 +1,25 @@
+name: flutter_voxlink
+description: A WebRTC-based video calling app built with Flutter & Firebase.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_webrtc: ^1.4.1
+  flutter_riverpod: ^2.5.1
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.3.0
+  go_router: ^14.2.0
+  permission_handler: ^11.3.1
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

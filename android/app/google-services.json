@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105018002302",
+    "project_id": "flutter-voxlink",
+    "storage_bucket": "flutter-voxlink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105018002302:android:96e3af9c990203088e412f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_voxlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBde9ERXShDQlDCKuqkLQ1oEXFu65zZQZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
