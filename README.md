@@ -205,4 +205,4 @@ MIT License — feel free to use in your own projects.
 
 Built as part of a 100 Flutter repos portfolio project.
 
-[![GitHub](https://img.shields.io/badge/GitHub-flutterbysunny-181717?logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-flutterbysunny-181717?logo=github)](https://github.com/flutterbysunny)
