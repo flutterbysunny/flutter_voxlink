@@ -8,13 +8,6 @@
 
 A production-ready **peer-to-peer video calling app** built with Flutter, WebRTC & Firebase Firestore — no third-party paid services, 100% free stack.
 
----
-
-## 📸 Screenshots
-
-> _Add screenshots here after running on real device_
-
----
 
 ## Features
 
